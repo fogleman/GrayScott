@@ -18,8 +18,8 @@ const int iterations = 10000;
 
 const int seedRate = 50;
 
-const float feedRate = 0.025;
-const float killRate = 0.055;
+const float feedRate = 0.054;
+const float killRate = 0.062;
 
 const float scale = 1;
 const float diffusionRateA = 1 * scale;
